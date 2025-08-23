@@ -1,0 +1,13 @@
+prefix=c:/Users/levgi/Desktop/Ironhack/Week5/Project W4-5/vanguard-project/.conda/Library
+exec_prefix=c:/Users/levgi/Desktop/Ironhack/Week5/Project W4-5/vanguard-project/.conda/Library
+libdir=c:/Users/levgi/Desktop/Ironhack/Week5/Project W4-5/vanguard-project/.conda/Library/lib
+sharedlibdir=c:/Users/levgi/Desktop/Ironhack/Week5/Project W4-5/vanguard-project/.conda/Library/lib
+includedir=c:/Users/levgi/Desktop/Ironhack/Week5/Project W4-5/vanguard-project/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
