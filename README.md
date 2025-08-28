@@ -8,7 +8,7 @@ Explore Vanguard’s customer experience (CX) process data using Python to evalu
 
 1. Does the redesigned process (Test) lead to a higher completion rate compared to the existing process (Control)?
 
-2. Do customer demographics (e.g., age group, gender, tenure) influence the likelihood of completing the process?
+2. How does the new UI/UX variation affect user completion, efficiency, and error rates, and does age influence these effects?
 
 **Hypotheses** 
 
